@@ -34,6 +34,11 @@
  *     o--[10K]-+
  *              |
  *              +-[22K]-o ground 
+ * 
+ * Later on I realized that I could have used just 4 pins to charlieplex the leds.
+ * And this means that I would have a completely free pin for input.
+ * 
+ * The code below still uses 5 pins for the leds and a shared pin for the button.
  */
 
 #define MAXLIGHTS 4
