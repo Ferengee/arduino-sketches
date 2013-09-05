@@ -1,0 +1,7 @@
+SampledButton	KEYWORD1
+ButtonEventHandler	KEYWORD1
+sample	KEYWORD2
+setClickEventHandler	KEYWORD2
+setPressEventHandler	KEYWORD2
+pressedTriggerInterval	KEYWORD2
+down	KEYWORD2
